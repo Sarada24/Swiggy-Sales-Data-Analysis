@@ -39,6 +39,6 @@ This project focuses on analyzing Swiggy food delivery sales data using Microsof
 🌸 Hey, I'm Sarada Behera.
 Aspiring Data Analyst | Excel | SQL | Power BI | Python
 
-💼 LinkedIn: [Sarada Behera](www.linkedin.com/in/sarada-behera13)
+💼 LinkedIn: [Sarada Behera](https://www.linkedin.com/in/sarada-behera13)
 
 📫 Email: beherasarada13@gmail.com
